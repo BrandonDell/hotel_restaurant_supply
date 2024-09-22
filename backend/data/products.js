@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: '1',
     name: 'Refrigerator',
     image: '/images/refrigerator.jpeg',
     description:
@@ -13,7 +12,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '2',
     name: 'Flat Top',
     image: '/images/flatTop.jpeg',
     description:
@@ -26,7 +24,6 @@ const products = [
     numReviews: 8,
   },
   {
-    _id: '3',
     name: 'Grill',
     image: '/images/grill.jpeg',
     description:
@@ -39,7 +36,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '4',
     name: 'Prep Table',
     image: '/images/prepTable.jpeg',
     description:
@@ -52,7 +48,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '5',
     name: 'Fryer',
     image: '/images/fryer.jpeg',
     description:
@@ -65,7 +60,6 @@ const products = [
     numReviews: 10,
   },
   {
-    _id: '6',
     name: 'Bowls and Plates',
     image: '/images/bowlsPlates.jpeg',
     description:
