@@ -35,7 +35,7 @@ const Header = () => {
       <Navbar bg='primary' variant='dark' expand='lg' collapseOnSelect>
         <Container>
           <Navbar.Brand as={Link} to='/'>
-            <img src={logo} alt='H&R Supply' />
+            <img src={logo} alt='H&R Supply' style={{ marginRight: '10px' }}/>
             H&R Supply
           </Navbar.Brand>
           <Navbar.Toggle aria-controls='basic-navbar-nav' />
