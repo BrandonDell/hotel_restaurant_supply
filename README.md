@@ -1,5 +1,5 @@
 # hotel_restaurant_supply
-Hotel and Restaurant Supply E-Commerce platform built with MERN Stack and Redux. It is a full-featured shopping cart with PayPal and Credit/Debit payments. 
+Hotel and Restaurant Supply E-Commerce platform built with MERN Stack, Redux, and a full-featured shopping cart with PayPal. 
 
 
 ## Features
@@ -45,3 +45,6 @@ npm install
 cd frontend
 npm install
 ```
+
+## Credits:
+- UCF Bootcamp and Traversy Media's learning tools
